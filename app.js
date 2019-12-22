@@ -3,6 +3,8 @@
 // ** //
 // // // class = an extensible program-code-template for creating objects, providing initial values for state
 // (member variables), and implementations of behavior (member functions or methods). // // //
+// In Javascript, classes can be construed as just syntactic sugar, since they are very different in other
+// programming languages.
 // ** //
 
 class Person {
